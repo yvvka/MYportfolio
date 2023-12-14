@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="楕円形_1" data-name="楕円形 1" cx="24" cy="24" r="24" transform="translate(114 867)" fill="#fff" stroke="#3b2b2b" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="マスクグループ_11" data-name="マスクグループ 11" transform="translate(-114 -867)" clip-path="url(#clip-path)">
+    <g id="ワードプレスのアイコン_1_" data-name="ワードプレスのアイコン (1)" transform="translate(114 867)">
+      <path id="パス_52" data-name="パス 52" d="M24,0A24,24,0,1,0,48,24,24.024,24.024,0,0,0,24,0ZM39.444,39.443A21.814,21.814,0,1,1,45.851,24,21.779,21.779,0,0,1,39.444,39.443Z" fill="#ffe4e5" stroke="#3b2b2b" stroke-width="0.094"/>
+      <path id="パス_53" data-name="パス 53" d="M6.753,16.3H6.617A19.016,19.016,0,0,0,15.6,41.054L6.754,16.3Z" fill="#ffe4e5" stroke="#3b2b2b" stroke-width="0.094"/>
+      <path id="パス_54" data-name="パス 54" d="M34.8,17.1c-1.639-2.292-1.4-6.979,1.618-7.492a19,19,0,0,0-28.447,4.18h6.959V16.3h-2.8l6.494,18.177L23.171,22.3l-2.145-6H17.782V13.787H29.428V16.3H26.394l6.549,18.335,3.319-8.866A11.789,11.789,0,0,0,34.8,17.1Z" fill="#ffe4e5" stroke="#3b2b2b" stroke-width="0.094"/>
+      <path id="パス_55" data-name="パス 55" d="M41.673,16.995c-.007.072-.015.145-.026.216-.46,3.086-3.318,9.856-3.318,9.856L34.191,38.129l-.923,2.47a19.006,19.006,0,0,0,8.406-23.6Z" fill="#ffe4e5" stroke="#3b2b2b" stroke-width="0.094"/>
+      <path id="パス_56" data-name="パス 56" d="M19.862,37.965,18.3,42.141a19.05,19.05,0,0,0,11.9-.169L24.417,25.786Z" fill="#ffe4e5" stroke="#3b2b2b" stroke-width="0.094"/>
+    </g>
+  </g>
+</svg>
